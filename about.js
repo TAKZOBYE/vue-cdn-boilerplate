@@ -8,7 +8,7 @@ const About = Vue.component('About', {
         return {
             style: {
                 container: {
-                    color: white,
+                    color: 'white',
                     backgroundColor: 'red'
                 }
             }
