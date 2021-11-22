@@ -1,2 +1,2 @@
-## Recommend Extensions
-# es6-string-html
+# Recommend Extensions
+### es6-string-html
